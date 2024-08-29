@@ -15,3 +15,7 @@
 #   - '@characters/susan.yaml'     # A relative path from this public folder to a definition file
 
 # scenario: "The scenario text to override all character(s)' scenario field with, if any."
+
+name: 'pan cooking'
+characters:
+  - 'self'
